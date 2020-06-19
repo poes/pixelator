@@ -1,0 +1,9 @@
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\bin\Debug\PixelArtGenerator.exe.config
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\bin\Debug\PixelArtGenerator.exe
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\bin\Debug\PixelArtGenerator.pdb
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\obj\Debug\PixelArtGenerator.Pixelator.resources
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\obj\Debug\PixelArtGenerator.Properties.Resources.resources
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\obj\Debug\Pixelator.csproj.GenerateResource.cache
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\obj\Debug\Pixelator.csproj.CoreCompileInputs.cache
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\obj\Debug\PixelArtGenerator.exe
+C:\Users\Lynx\Desktop\projects\PixelArtGenerator\PixelArtGenerator\obj\Debug\PixelArtGenerator.pdb
